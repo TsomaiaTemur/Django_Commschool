@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="db" uuid="c6cb5b8d-e97c-45db-b3f7-77b05b9dcc27">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\u\PycharmProjects\django_commschool\my_project\db.sqlite3</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
